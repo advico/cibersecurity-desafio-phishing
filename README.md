@@ -22,4 +22,3 @@
 
 ![Alt text](./desafio_dio.jpeg "Optional title")
 
-teste
